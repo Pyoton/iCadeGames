@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(20, 20, 20);
+    margin: 0px;
+}
+
+#title {
+    color: white;
+    font-size: 7vh;
+    position: absolute;
+    left: 50vw;
+    transform: translateX(-50%);
+    white-space: nowrap;
+}
+
+#textarea {
+    width: 100vw;
+    height: 80vh;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+}
